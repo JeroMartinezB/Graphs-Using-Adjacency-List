@@ -1,8 +1,3 @@
-// Jeronimo Martinez Barragan
-// CSC 310
-// 04/12/2025
-// Project 3
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
@@ -107,3 +102,4 @@ public class GraphDriver {
 
     }
 }
+
