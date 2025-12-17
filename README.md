@@ -15,6 +15,7 @@ search the graph for it, starting at the current vertex, and then report if the 
 on the graph.  
 
 **Dataset**
+
 Three different graph datasets are provided. The first value in these text files will be the number of
 vertices. This number is then used to dynamically declare the size of the adjacency list.
 After that, each line contains an edge, which is really just two vertices separated by a space.
